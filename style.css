@@ -1,0 +1,52 @@
+body {
+   background-color: #DAA14A;
+   color: #F2EDDA;
+   background-image: url(imagenes/F_05547.jpg);
+   background-repeat: repeat;
+   background-position: center;
+   background-attachment: fixed;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   text-align: center;
+}
+main {
+    background-color: rgba(97, 73, 61, 0.788);
+    margin: 40px;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+h1 {
+color: #DAA14A;
+font-family:Georgia, 'Times New Roman', Times, serif;
+text-decoration: underline;
+}
+
+ul li{
+    list-style: inside;
+}
+
+span {
+    font-size: 120%; 
+}
+
+
+img {
+    border: 5px solid #42323D;
+    margin: 40px;
+}
+button {
+    background-color: #212437;
+    margin: 16px;
+    padding: 5px;
+}
+
+a{
+    color: #F2EDDA;
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button:hover {
+    background-color: #42323D;
+}
